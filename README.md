@@ -2,7 +2,7 @@
 
 A from-scratch implementation of linear regression using NumPy and gradient descent — built to predict house prices and benchmarked against scikit-learn’s model.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinayak251104/custom-linear-regression-model/blob/main/notebooks/HousePredictionWithCustomLinearRegressionModel.ipynb#scrollTo=dd7fd2fb-0455-4912-8fdd-bb2e7eb3501d)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinayak251104/custom-linear-regression-model/blob/main/notebooks/HousePredictionWithCustomLinearRegressionModel.ipynb)
 
 
 
