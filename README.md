@@ -1,6 +1,9 @@
 # Custom Linear Regression Model
 
 A from-scratch implementation of linear regression using NumPy and gradient descent — built to predict house prices and benchmarked against scikit-learn’s model.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinayak251104/custom-linear-regression-model/blob/main/notebooks/HousePredictionWithCustomLinearRegressionModel.ipynb)
+
 ## Features
 
 - Implemented linear regression using NumPy (no ML libraries)
